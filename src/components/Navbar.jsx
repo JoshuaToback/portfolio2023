@@ -40,7 +40,7 @@ const Navbar = () => {
         >
           <img src={jtlogo} alt="logo" className="w-9 h-9 object-contain" />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Joshua  &nbsp;
+            Joshua Toback  &nbsp;
             <span className='sm:block hidden'> | React Designer</span>
           </p>
         </Link>
